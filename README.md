@@ -1,2 +1,2 @@
 # PRODIGY_SD_03
-This is my github repository.
+ C++ program that allows users to store and manage contact information. It provides options to add a new contact by entering their name, phone number, and email address. It also allows users to view their contact list, edit existing contacts, and delete contacts if needed. The program stores the contacts in memory using a vector and offers the option to save them to a file for persistent storage.
